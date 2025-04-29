@@ -27,7 +27,7 @@ httpx==0.27.0
 hyperframe==6.0.1
 idna==3.6
 importlib-metadata==7.0.0
-Jinja2==3.1.3
+Jinja2==3.1.6
 lxml==5.2.1
 MarkupSafe==2.1.5
 microsoft-kiota-abstractions==1.3.2
